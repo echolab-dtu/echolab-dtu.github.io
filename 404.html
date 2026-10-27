@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ECHOlab</title>
+    <script>
+        // The site used to live at /web/ before the repo rename. GitHub Pages serves
+        // this page for any missing path, so send old links to their new location.
+        (function () {
+            var path = location.pathname;
+            if (!/^\/web(\/|$)/i.test(path)) return;
+            path = path.replace(/^\/web/i, '') || '/';
+
+            // Old map links used a capitalised Maps/ folder and earlier file names
+            var maps = {
+                '/maps/folketingsvalget2026.html': '/maps/folketingsvalget2026.html',
+                '/maps/folketingsvalget-li-x18feb-5-mar.html': '/maps/folketingsvalget2026.html',
+                '/about/about.html': '/',
+                '/about/': '/'
+            };
+            path = maps[path.toLowerCase()] || path;
+
+            location.replace(path + location.search + location.hash);
+        })();
+    </script>
+    <link href="https://fonts.cdnfonts.com/css/neo-sans-std" rel="stylesheet">
+    <link rel="stylesheet" href="/css/styles.css">
+</head>
+<body>
+    <main style="padding: 4rem 1.5rem; text-align: center;">
+        <h1>Page not found</h1>
+        <p><a href="/">Go to the ECHOlab front page</a></p>
+    </main>
+</body>
+</html>
