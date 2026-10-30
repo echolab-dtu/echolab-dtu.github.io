@@ -264,5 +264,20 @@
       "bluesky": "https://bsky.app/profile/jacomyma.bsky.social",
       "website": "https://reticular.hypotheses.org"
     }
+  },
+  {
+    "id": "emma-veland",
+    "name": "Emma Veland",
+    "title": "Valuation struggles, human-machine configurations, AI in education",
+    "image": "../assets/people/emma_veland.jpg",
+    "bio": "Emma Veland studies how writing is made valuable in STEM education through the practices in which it is embedded in the age of generative AI. She researches how students, educators, and university policymakers enact different valuations of writing, and how these overlap and conflict, shaping how writing is understood, practiced and governed. She seeks to use games in co-creation workshops to bring these valuations into dialogue, making them visible and collectively negotiable, with the aim of informing universities on how to adapt to generative AI.",
+    "workingGroups": [
+    "Gamification, Elicitation and Public Engagement"
+    ],
+    "socials": {
+      "email": "emmvel@dtu.dk",
+      "linkedin": "https://www.linkedin.com/in/emma-veland-3948b223a/",
+      "website": "https://orbit.dtu.dk/en/persons/emma-veland-2/"
+    }
   }
 ]
