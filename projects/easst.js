@@ -9,7 +9,7 @@ const noteData = {
     <p>Two presentations explored emerging relationships between generative AI and human perspectives. One introduced “perspectival models”, combining generative AI and RAG with citizens’ multimedia documentation to experiment with bringing diverse and alternative experiences into urban planning. The other presented a gamified experiment with LLMs, investigating whether cultural alignment measured through established benchmarks translates into alignment when people interact with AI models. Together, the presentations brought a range of ECHOlab’s empirical interests and methodological experiments into conversation at EASST.</p>
   `,
   //Sections -> Right column 
-  objectives: [
+  researchTopics: [
     "•	Daniel Nordstrand Frantzen",
     "•	Tom Cronin",
     "•	Julia Kirch Kirkegaard"
@@ -32,7 +32,7 @@ const noteData = {
 
 // OPTIONAL: Change section titles (right column)
   sectionTitles: {
-    objectives: "After a ‘good economy’? Expanding and contracting the worth of energy",
+    researchTopics: "After a ‘good economy’? Expanding and contracting the worth of energy",
     methodology: "Mapping the evolving foodscapes of caseiculture in the age of digitalization",
     lessons: "Ethnographic travel agents: Experiments with perspectival models for urban planning",
     collaborators: "Tinkering with cultural alignment: Notes from a gamified experiment with LLMs"
