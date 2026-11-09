@@ -33,7 +33,7 @@ const noteData = {
 // OPTIONAL: Change section titles (right column)
   sectionTitles: {
     objectives: "After a ‘good economy’? Expanding and contracting the worth of energy",
-    methodology: "Mapping the evolving foodscapes of caseiculture in the age of digitalization"
+    methodology: "Mapping the evolving foodscapes of caseiculture in the age of digitalization",
     lessons: "Ethnographic travel agents: Experiments with perspectival models for urban planning",
     collaborators: "Tinkering with cultural alignment: Notes from a gamified experiment with LLMs"
   }
