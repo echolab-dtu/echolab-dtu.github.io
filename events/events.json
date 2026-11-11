@@ -1,6 +1,21 @@
 {
   "events": [
     {
+      "date": "30.11.2026",
+      "title": "Open ECHOlab - Perspectival Modelling",
+      "image": "assets/events/open_perspectival.png"
+    },
+    {
+      "date": "25.01.2027",
+      "title": "Open ECHOlab - Observatory for Technological Questions in Society",
+      "image": "assets/events/open_observatory.png"
+    },
+    {
+      "date": "22.02.2027",
+      "title": "Open ECHOlab - Games and Public Engagement",
+      "image": "assets/events/open_games.png"
+    },
+    {
       "date": "01.02.2026",
       "title": "Spring Program 2026",
       "image": "assets/events/spring_program_2026.png"
