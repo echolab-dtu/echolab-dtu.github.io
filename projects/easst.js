@@ -10,13 +10,14 @@ const noteData = {
   `,
   //Sections -> Right column 
     objectives: [
-      "  "
+      "Presenting ECHOlab research",
+      "Advancing methodological innovation",
+      "Contributing to STS debates"
   ],
   researchTopics: ["  "
-  ],
-  methodology: [
-"   "
-  ],
+                  ],
+  methodology: ["Mixed-method approaches spanning ethnography, participation and AI-enabled experimentation"
+               ],
   lessons: [
     "After a ‘good economy’? Expanding and contracting the worth of energy - Daniel Nordstrand Frantzen, Tom Cronin & Julia Kirch Kirkegaard ",
     "Mapping the evolving foodscapes of caseiculture in the age of digitalization: Cheessues spark a public into being - Anders Kristian Munk, Mathieu Jacomy & Tanja Schneider",
